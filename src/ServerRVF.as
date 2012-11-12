@@ -6,10 +6,7 @@ package
 	{
 		public function ServerRVF()
 		{
-			//test
 			
-			//test 2ggggg
-		
 		}
 	}
 }
