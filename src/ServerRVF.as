@@ -22,6 +22,7 @@ package
 			
 			// schaamhaar tot op de grond
 			// public hair
+			// private hair
 		}
 	}
 }
